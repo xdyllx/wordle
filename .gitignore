@@ -1,4 +1,6 @@
 venv
 .idea
-
+tmp/
 .DS_Store
+test_word.txt
+__pycache__/
